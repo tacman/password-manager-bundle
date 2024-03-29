@@ -3,7 +3,7 @@ Password management and recovery bundle for Symfony using [login links](https://
 
 ## Installation
 ```bash
-$ composer require cyve/password-manager-bundle`
+composer require cyve/password-manager-bundle`
 ```
 
 ## Configuration
